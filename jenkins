@@ -1,0 +1,5 @@
+To install java11 : amazon-linux-extras install java-openjdk11 -y
+To install jenkins : yum install jenkins -y
+To start jenkins : systemctl start jenkins
+To check jenkins status : systemctl status jenkins
+To stop jenkins : systemctl stop jenkins
